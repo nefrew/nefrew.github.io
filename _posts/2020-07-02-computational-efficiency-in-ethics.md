@@ -28,4 +28,3 @@ compute that it just doesn't have a good effective theory. Or, two seemingly dif
 ethical theories could descend to very similar effective theories, in which case
 the difference between the two would be academic.
 
-O
