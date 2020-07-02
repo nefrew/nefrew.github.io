@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "The Unreasonable Effectiveness Of Argument from the Margin"
-categories: politics, rawls,
+categories: politics rawls
 ---
 
 Are there people who, for medical reasons, cannot wear surgical masks? Doctors
